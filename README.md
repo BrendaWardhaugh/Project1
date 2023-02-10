@@ -11,16 +11,17 @@ For this project we are interested in using data from New York City Airbnb’s t
 
 
 ### Research Questions:
-What can we learn about different hosts and areas?
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
-Which hosts are the busiest and why?
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
-How does room type affect price?
+* What can we learn about different hosts and areas?
+* What can we learn from predictions? (ex: locations, prices, reviews, etc)
+* Which hosts are the busiest and why?
+* How many Airbnbs does each host have? What does their distribution look like? - Brenda
+* Is there any noticeable difference of traffic among different areas and what could be the reason for it? - Anna
+* How does room type affect price? - Haoyue
 
 
 ### Datasets to be used:
-https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
-We are also looking into using a location or weather API to further compare the dataset. (would also be interesting to look at crime rate in these Airbnb location. Maybe we can find an API or dataset that has that info or nearby attractions which might help indicate why some locations prices are higher?).
+* Dataset: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data   
+* We are also looking into using a location or weather API to further compare the dataset. (would also be interesting to look at crime rate in these Airbnb location. Maybe we can find an API or dataset that has that info or nearby attractions which might help indicate why some locations prices are higher?).
 If we can find a comparable dataset for another airbnb city we will then compare the New-York City data to that.
 
 
