@@ -3,7 +3,7 @@
 ### Title: New York City – Airbnb
 
 
-### Members: Brenda Wardhaugh, Gurpreet Singh Dhameja, Haoyue Lin & Anna Puzinovici
+### Members: Brenda Wardhaugh, Gurpreet Singh Dhameja, Lin Haoyue & Anna Puzinovici
 
 
 ### Description:
@@ -14,17 +14,26 @@ For this project we are interested in using data from New York City Airbnb’s t
 * What can we learn about different hosts and areas?
 * What can we learn from predictions? (ex: locations, prices, reviews, etc)
 * Which hosts are the busiest and why?
-* How many Airbnbs does each host have? What does their distribution look like? - Brenda
+* Anaylysis of room types. What does the distribution look like? - Brenda
 * Is there any noticeable difference of traffic among different areas and what could be the reason for it? - Anna
 * How does room type affect price? - Haoyue
 
 
 ### Datasets to be used:
-* Dataset: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data   
-* We are also looking into using a location or weather API to further compare the dataset. (would also be interesting to look at crime rate in these Airbnb location. Maybe we can find an API or dataset that has that info or nearby attractions which might help indicate why some locations prices are higher?).
-If we can find a comparable dataset for another airbnb city we will then compare the New-York City data to that.
-
+* Dataset: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019. This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions
 
 ### Rough Breakdown of Tasks:
+* Brenda: 
+* Gurpreet:
+* Lin:
+* Anna: 
+
+
+### Findings:
+
+
+
+
+
 
 
