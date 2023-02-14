@@ -7,7 +7,7 @@
 
 
 ### Description:
-For this project we are interested in using data from New York City Airbnb’s to learn more about how they function. We will be examining the Airbnb hosts, the locations, the prices, and the different types of accommodations offered. We will then use APIs to further compare the different Airbnb’s to help determine what factors are linked to more successful Airbnbs.
+For this project we are interested in using data from New York City Airbnb’s to learn more about how they function. We will be examining the Airbnb hosts, the locations, the prices, and the different types of accommodations offered. 
 
 
 ### Research Questions:
